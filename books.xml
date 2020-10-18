@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<library>
+  <books>
+    <catalogue>Technical</catalogue>
+    <isbn>376423981</isbn>
+    <title>JavaScript: The Good Parts</title>
+    <author>Douglas Crockford</author>
+  </books>
+  <books>
+    <catalogue>Technical</catalogue>
+    <isbn>276543293</isbn>
+    <title>Learn Python the Hard Way</title>
+    <author>Zed Shaw</author>
+  </books>
+  <books>
+    <catalogue>Cookery</catalogue>
+    <isbn>732643856</isbn>
+    <title>The Joy of Food</title>
+    <author>Rory O'Connell</author>
+  </books>
+  <books>
+    <catalogue>Cookery</catalogue>
+    <isbn>852754198</isbn>
+    <title>Green Roasting Tin</title>
+    <author>Rukmini Iyer</author>
+</books>
+</library>
